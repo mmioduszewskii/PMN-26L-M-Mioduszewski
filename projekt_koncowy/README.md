@@ -1,4 +1,4 @@
-# Przegląd metod AI 2025/26 - Projekt grupowy 
+# Przegląd metod i narzędzi AI 2025/26 - Projekt grupowy 
 
 **Imiona i nazwiska studentów w grupie:** Mateusz Mioduszewski, Krystian Osak, Maciej Kiendyś
 
