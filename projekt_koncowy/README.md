@@ -1,8 +1,8 @@
 # Przegląd metod AI 2025/26 - Projekt grupowy 
 
 **Imiona i nazwiska studentów w grupie:** Mateusz Mioduszewski, Krystian Osak, Maciej Kiendyś
-**Numer indeksu:** 119159, X, Y
-**Kierunek i grupa:** Data Science, II semestr, Ps4  
+
+**Kierunek i grupa:** Data Science, II semestr, Ps4   
 
 ---
 
