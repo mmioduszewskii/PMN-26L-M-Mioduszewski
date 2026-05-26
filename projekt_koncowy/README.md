@@ -12,4 +12,4 @@ Celem projektu jest przeprowadzenie pełnego procesu analityczno-implementacyjne
 ## Co zawiera folder?
 W obecnej chwili folder zawiera:
 - czesc_analityczna.ipynb | Tymczasowa część zadania projektowego dotycząca części analitycznej projektu, zbioru danych oraz metod sztucznej inteligencji.
-- heart_attack_prediction_dataset.csv | Zbiór danych (źródło: [Kaggle - Heart Attack Risk Prediction](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset/code))
+- heart_attack_prediction_dataset.csv | Zbiór danych (źródło: [Kaggle - Heart Attack Risk Prediction](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset/data))
