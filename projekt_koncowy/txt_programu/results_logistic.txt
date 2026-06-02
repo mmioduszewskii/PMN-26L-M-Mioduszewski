@@ -1,0 +1,4 @@
+LR_Accuracy: 0.5037
+LR_Recall: 0.4904
+LR_F1: 0.4145
+LR_AUC: 0.5057

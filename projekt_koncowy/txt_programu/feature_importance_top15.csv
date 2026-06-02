@@ -1,0 +1,16 @@
+feature,importance
+num__BMI,0.09458511155532436
+num__Income,0.09242180531222867
+num__Triglycerides,0.082831542153173
+num__Sedentary Hours Per Day,0.0805127779035233
+num__Exercise Hours Per Week,0.06939523696512054
+num__BP_sys,0.06309615803155132
+num__Cholesterol,0.0628781618327202
+num__Heart Rate,0.056615823012813746
+num__BP_dia,0.05646011604253548
+num__Age,0.05277878291681244
+num__Sleep Hours Per Day,0.03843732881185226
+num__Stress Level,0.031988317541657284
+num__Physical Activity Days Per Week,0.02571878125396434
+num__Alcohol Consumption,0.008701766149692324
+num__Obesity,0.00789661059151892

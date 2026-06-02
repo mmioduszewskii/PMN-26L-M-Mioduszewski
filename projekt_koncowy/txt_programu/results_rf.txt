@@ -1,0 +1,4 @@
+RF_Accuracy: 0.5328
+RF_Recall: 0.4347
+RF_F1: 0.4000
+RF_AUC: 0.5120
